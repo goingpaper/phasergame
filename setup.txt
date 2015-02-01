@@ -1,0 +1,9 @@
+npm install express
+npm install engine.io
+npm install eureca.io
+
+<script src="/eureca.js"></script>
+
+to run server:
+node --harmony-proxies server.js
+node server.js
